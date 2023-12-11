@@ -1,24 +1,18 @@
 {
   "clientes": [
     {
-      "id": 1,
       "nombre": "Juan",
-      "telefono": 102013313,
-      "email": "juan@juan.com",
-      "empresa": "Codigo Con Juan"
+      "empresa": "Codigo Con Juan",
+      "email": "juan@gmail.com",
+      "telefono": "102013313",
+      "notas": "Hola",
+      "id": 1
     },
     {
       "id": 2,
       "nombre": "Karen",
       "telefono": 138198313,
       "email": "karen@juan.com",
-      "empresa": "Codigo Con Juan"
-    },
-    {
-      "id": 3,
-      "nombre": "Josue",
-      "telefono": 31983913,
-      "email": "josue@juan.com",
       "empresa": "Codigo Con Juan"
     },
     {
@@ -42,6 +36,14 @@
       "telefono": "999999999",
       "notas": "Empiricoassadas",
       "id": 6
+    },
+    {
+      "nombre": "Josue",
+      "empresa": "Empresa Epica",
+      "email": "kk@gmail.com",
+      "telefono": "123456789",
+      "notas": "asdasdasdas",
+      "id": 7
     }
   ]
 }
